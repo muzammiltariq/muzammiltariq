@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Muzammil Tariq
-- 🌱 I’m currently learning Computer Science along with Social Development and Policy
-- Flutter Enthusiast
+- 🌱 I am a Computer Science and Social Development & Policy graduate from Habib University
+- Software Development Enthusiast
 - [My Website](https://muzammiltariq.me) which is under construction
