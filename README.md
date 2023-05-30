@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Muzammil Tariq
 - 🌱 I am a Computer Science and Social Development & Policy graduate from Habib University
-- Software Development Enthusiast
+- Economics and Data Science Enthusiast
 - [My Website](https://muzammiltariq.me) which is under construction
