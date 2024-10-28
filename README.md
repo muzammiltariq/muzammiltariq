@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muzammil Tariq
-- 🌱 I am a Computer Science and Social Development & Policy graduate from Habib University
+- Hi, I’m Muzammil Tariq
+- I am studying policy and data science at the Korea Development Institute in South Korea and I did my Computer Science undergraduate at Habib University in Pakistan
 - Economics and Data Science Enthusiast
 - [My Website](https://muzammiltariq.netlify.app) which is under construction
